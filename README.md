@@ -2,12 +2,12 @@
 Library of Statistical Tests When to Use etc.
 
 
-## Augmented Dickey Fuller Test
+## Augmented Dickey Fuller Test. (ADF Test)
 
 This type of statistical test is called a unit root test.  The intution behind a unit root test is that
 it determines how. strongly a time series is strongly defined by a trend. 
 
-## Kwiatkowski–Phillips–Schmidt–Shin  Test 
+## Kwiatkowski–Phillips–Schmidt–Shin  Test  (KPSS Test)
 
 It used for  stationarity of a 
 series around a deterministic trend. 
