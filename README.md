@@ -15,5 +15,5 @@ Like ADF test, the KPSS test is also commonly used to analyse the stationarity o
 
 ## Difference among these two tests
 
-### The capability of the KPSS test to check for stationarity in the ‘presence of a deterministic trend’.
-### It implies the slope of the trend in the series does not change permanently. That is even if the series goes through a shock, it tends to regain its original path.
+The capability of the KPSS test to check for stationarity in the ‘presence of a deterministic trend’.
+It implies the slope of the trend in the series does not change permanently. That is even if the series goes through a shock, it tends to regain its original path.
