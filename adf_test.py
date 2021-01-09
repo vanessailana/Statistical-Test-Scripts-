@@ -6,4 +6,4 @@ def adf_test(timeseries):
     dfoutput = pd.Series(dftest[0:4], index=['Test Statistic','p-value','#Lags Used','Number of Observations Used'])
     for key,value in dftest[4].items():
        dfoutput['Critical Value (%s)'%key] = value
-    print (dfoutput)
+    print(f'Result: The series is {"not " if p_value > 0.05 else ""}stationary')
